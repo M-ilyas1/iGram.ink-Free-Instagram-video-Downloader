@@ -1,11 +1,6 @@
 iGram.ink — Instagram Video Downloader
 A fast, free, and modern Instagram video downloader built with HTML, Tailwind CSS, and vanilla JavaScript. Download Instagram Reels, Videos, Photos, Stories, IGTV, and Carousel posts in HD quality — no login, no watermark, no cost.
 
-https://img.shields.io/badge/Live%20Demo-igram.ink-7c3aed?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge
-https://img.shields.io/badge/PRs-Welcome-d946ef?style=for-the-badge
-https://img.shields.io/badge/Tailwind%20CSS-3.x-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white
-
 📋 Table of Contents
 About
 
