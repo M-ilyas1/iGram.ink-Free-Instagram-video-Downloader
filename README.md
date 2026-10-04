@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📥 iGram.ink — Instagram Video Downloader
+# 📥 iGram.ink — Free Instagram Video Downloader
 
 ### Download Instagram Videos, Reels, Photos, Stories, IGTV & Carousels in HD Quality — Free, No Login, No Watermark
 
