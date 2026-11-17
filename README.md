@@ -140,9 +140,7 @@ Whether you want to **download Instagram Reels without watermark**, **save Insta
 ## 📁 All Pages
 
 https://igram.ink/
-
 https://igram.ink/about
-
 https://igram.ink/faq
 https://igram.ink/privacy-policy
 https://igram.ink/terms-and-conditions
