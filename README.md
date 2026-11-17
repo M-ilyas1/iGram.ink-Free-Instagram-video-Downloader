@@ -105,16 +105,6 @@ Whether you want to **download Instagram Reels without watermark**, **save Insta
 ### Live Website
 👉 **[https://igram.ink](https://igram.ink)**
 
-### Screenshots
-
-<div align="center">
-
-| Homepage | Blog | FAQ |
-|---|---|---|
-| ![Homepage](https://igram.ink/) | ![Blog](https://igram.ink/blog) | ![FAQ](https://igram.ink/faq) |
-
-</div>
-
 ### How to Use
 
 1. **Copy** the Instagram link (Reel, Post, Story, or IGTV)
