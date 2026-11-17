@@ -111,7 +111,7 @@ Whether you want to **download Instagram Reels without watermark**, **save Insta
 
 | Homepage | Blog | FAQ |
 |---|---|---|
-| ![Homepage](https://via.placeholder.com/400x250/8b5cf6/ffffff?text=iGram+Homepage) | ![Blog](https://via.placeholder.com/400x250/d946ef/ffffff?text=iGram+Blog) | ![FAQ](https://via.placeholder.com/400x250/7c3aed/ffffff?text=iGram+FAQ) |
+| ![Homepage](https://igram.ink/) | ![Blog](https://igram.ink/blog) | ![FAQ](https://igram.ink/faq) |
 
 </div>
 
