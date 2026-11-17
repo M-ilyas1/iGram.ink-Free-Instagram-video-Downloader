@@ -147,4 +147,47 @@ Whether you want to **download Instagram Reels without watermark**, **save Insta
 
 ---
 
-## 📁 Project Structure
+## 📁 All Pages
+
+https://igram.ink/
+https://igram.ink/about
+https://igram.ink/faq
+https://igram.ink/privacy-policy
+https://igram.ink/terms-and-conditions
+https://igram.ink/blog
+https://igram.ink/best-instagram-downloader-2026
+https://igram.ink/download-instagram-dp-full-size
+https://igram.ink/download-instagram-highlights
+https://igram.ink/download-instagram-reels-audio
+https://igram.ink/download-instagram-story
+https://igram.ink/download-instagram-video-on-pc
+https://igram.ink/download-private-instagram-story
+https://igram.ink/instagram-carousel-download
+https://igram.ink/instagram-downloader-no-login
+https://igram.ink/instagram-downloader-online-free
+https://igram.ink/instagram-igtv-download
+https://igram.ink/instagram-photo-downloader
+https://igram.ink/instagram-profile-picture-download
+https://igram.ink/instagram-profile-viewer
+https://igram.ink/instagram-reels-download-mp4
+https://igram.ink/instagram-reels-download
+https://igram.ink/instagram-story-download-without-login
+https://igram.ink/instagram-story-saver
+https://igram.ink/instagram-story-viewer
+https://igram.ink/instagram-video-downloader-chrome-extension
+https://igram.ink/instagram-video-downloader
+https://igram.ink/save-instagram-reels-to-gallery
+https://igram.ink/how-to-download-instagram-story
+https://igram.ink/how-to-download-instagram-videos-on-android
+https://igram.ink/how-to-download-instagram-videos-on-iphone
+https://igram.ink/how-to-save-instagram-photos
+https://igram.ink/view-instagram-story-without-account
+https://igram.ink/watch-instagram-stories-anonymously
+https://igram.ink/igram-world-vs-igram-site-vs-igram-website-vs-igram-ink
+https://igram.ink/is-it-safe-to-use-instagram-downloader
+https://igram.ink/download-instagram-reels-without-watermark
+https://igram.ink/save-instagram-photos-videos-gallery
+https://igram.ink/download-instagram-stories-before-disappear
+https://igram.ink/igtv-download-guide-save-long-videos
+https://igram.ink/top-instagram-reels-trends-2026
+https://igram.ink/download-instagram-carousel-posts
